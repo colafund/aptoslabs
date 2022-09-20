@@ -330,6 +330,8 @@ blockquote:last-child {
 }
 
 .header-brand .logo {
+	width: 25;
+	height: 125;
 	display: table;
 	margin-left: 0;
 	color: #252729;
