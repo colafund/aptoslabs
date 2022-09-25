@@ -1897,6 +1897,10 @@ hr.dark {
 	text-align: center;
   }
 
+.roadmap {
+	text-align: right;
+  }
+
   .dimg img:hover{
 	animation: tada 1s .2s ease both;
 	-moz-animation: tada 1s .2s ease both;
